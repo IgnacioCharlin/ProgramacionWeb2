@@ -1,0 +1,13 @@
+main {
+    background-color: #2196f3;
+    min-height: 1000px;
+    font-family: "helvetica neue";
+    background: url(fondo.png),
+      linear-gradient(to left, #2196f3, #009688);
+    padding-bottom: 2rem;
+}
+
+.card{
+    box-shadow: 5px 6px 6px 2px rgba(0, 0, 0, 0.51)
+;
+}
