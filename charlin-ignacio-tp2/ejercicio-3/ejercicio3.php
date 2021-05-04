@@ -10,5 +10,6 @@
     }
     echo '</div>';
     echo "<p class='container text-center mt-5 display-6'>El resultado de la suma es: <span class='fw-bold'>$sumatoria</span></p>";
+    echo'<button class="btn btn-primary d-block mx-auto p-2" onclick="location.reload()">TIRAR</button>';
 
 ?>

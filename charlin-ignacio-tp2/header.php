@@ -29,13 +29,13 @@
                         <a class="nav-link" href="/Programacion-web-2/charlin-ignacio-tp2/ejercicio-3/ejercicio3.php">Ejercicio 3</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ejercicio 4</a>
+                        <a class="nav-link" href="/Programacion-web-2/charlin-ignacio-tp2/ejercicio-4/ejercicio4.php">Ejercicio 4</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ejercicio 5</a>
+                        <a class="nav-link" href="/Programacion-web-2/charlin-ignacio-tp2/ejercicio-5/ejercicio5.php">Ejercicio 5</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Ejercicio 6</a>
+                        <a class="nav-link" href="/Programacion-web-2/charlin-ignacio-tp2/ejercicio-6/ejercicio6.php">Ejercicio 6</a>
                     </li>
                 </ul>
             </div>
